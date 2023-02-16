@@ -9,14 +9,13 @@ body {
 
 .hero {
   font-family: "Montserrat", sans-serif;
-
-  background-image: url("images/investment\ for\ the\ future.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+  url("images/investment\ for\ the\ future.jpg");
   text-align: center;
   padding: 5rem 0;
   background-position: center bottom;
   background-size: cover;
-  background-color: #2c3044;
-  background-blend-mode: multiply;
+  
 }
 
 .hero h5 {
